@@ -279,7 +279,7 @@
 }
 
 .slick-next {
-	background: url(../images/chevron-right-dark-blue.png) no-repeat center;
+	background: url(../img/chevron-right-dark-blue.png) no-repeat center;
     right: -41px;
     height: 55px;
     width: 24px;
@@ -288,7 +288,7 @@
     transform: translateY(-69%);
 }
 .slick-next:hover {
-	background: url(../images/chevron-right-dark-gold.png) no-repeat center;
+	background: url(../img/chevron-right-dark-gold.png) no-repeat center;
 	right: -41px;
     height: 55px;
     width: 24px;
@@ -299,7 +299,7 @@
 
 .slick-prev {
     border: none;
-    background: url(../images/chevron-left-dark-blue.png) no-repeat center;
+    background: url(../img/chevron-left-dark-blue.png) no-repeat center;
     position: absolute;
     width: 24px;
     height: 55px;
@@ -311,7 +311,7 @@
 
 .slick-prev:hover {
     border: none;
-    background: url(../images/chevron-left-dark-gold.png) no-repeat center;
+    background: url(../img/chevron-left-dark-gold.png) no-repeat center;
     position: absolute;
     width: 24px;
     height: 55px;
@@ -390,6 +390,7 @@
 
 .news-block-3 .destaques_inf .wrap article{
 	width:33%;
+	padding-bottom: 20px;
 }
 
 
